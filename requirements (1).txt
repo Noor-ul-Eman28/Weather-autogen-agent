@@ -1,5 +1,0 @@
-streamlit
-autogen-agentchat
-autogen-ext[openai]
-requests
-python-dotenv
